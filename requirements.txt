@@ -94,7 +94,6 @@ Pyphen==0.9.5
 python-dateutil==2.8.1
 python-decouple==3.3
 python-magic==0.4.15
-python-magic-bin==0.4.14
 pytz==2019.3
 razorpay==1.2.0
 redis==3.4.1
