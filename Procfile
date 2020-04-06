@@ -1,1 +1,1 @@
-web: gunicorn racks.wsgi
+web: gunicorn racks.wsgi --log-file -
